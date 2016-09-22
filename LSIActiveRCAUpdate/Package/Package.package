@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="ad65ed51-108a-455c-8429-dcf22e5c0bfb" solutionId="ad65ed51-108a-455c-8429-dcf22e5c0bfb" resetWebServer="false" sharePointProductVersion="15.0" name="LSIActiveRCAUpdate" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="3c3dc1dc-3549-41f5-bc5d-fb99c6c050f0" />
+  </features>
+</package>

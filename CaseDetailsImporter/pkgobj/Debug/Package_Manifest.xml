@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="91596fb2-55df-41f2-bd10-26dbb8d4cf10" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="Newtonsoft.Json.dll" DeploymentTarget="WebApplication" />
+    <Assembly Location="CaseDetailsImporter.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="CaseDetailsImporter_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

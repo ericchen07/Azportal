@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="a51d7959-90bd-4401-8bfa-c582bf849a77" solutionId="a51d7959-90bd-4401-8bfa-c582bf849a77" resetWebServer="false" sharePointProductVersion="15.0" name="ImportCaseInfo" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="252f36fb-4b57-4cd6-96a9-46421f8fffbf" />
+  </features>
+</package>

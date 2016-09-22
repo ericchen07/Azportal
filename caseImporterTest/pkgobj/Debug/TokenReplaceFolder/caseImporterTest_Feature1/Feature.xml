@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="caseImporterTest Feature1" Id="52b58796-12a4-4062-bfe2-1f357c1ae0d1" ReceiverAssembly="caseImporterTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=0db0c55ed5ebb842" ReceiverClass="CaseImporterTest.Features.Feature1.Feature1EventReceiver" Scope="WebApplication"></Feature>

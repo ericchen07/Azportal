@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="78f1a7fe-09e1-4955-99eb-72b58601ca12" 
+        solutionId="78f1a7fe-09e1-4955-99eb-72b58601ca12" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="case_importer_backup"
+        sharePointProductVersion="15.0">
+</package>

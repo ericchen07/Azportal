@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="5f0aadf4-f80a-44c9-a463-473283afde7c" ReceiverAssembly="OutageActiveRCAUpdate, Version=1.0.0.0, Culture=neutral, PublicKeyToken=01e37bdafc209a6f" ReceiverClass="OutageActiveRCAUpdate.Features.Feature1.Feature1EventReceiver" Scope="WebApplication" Title="OutageActiveRCAUpdate Feature1"></Feature>

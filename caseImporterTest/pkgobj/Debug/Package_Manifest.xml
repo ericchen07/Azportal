@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="a0501511-e047-4b60-85f5-0332e403d793" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="caseImporterTest.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="caseImporterTest_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

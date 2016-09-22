@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="70b458f0-4d3b-4daa-b61a-4d833b637153" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="importer backup.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="CaseInfoImporter_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

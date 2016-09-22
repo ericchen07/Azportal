@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="86b1e7aa-ab9e-4e30-9f06-65336988b380" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="UpdateCaseStatus.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="UpdateCaseStatus_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

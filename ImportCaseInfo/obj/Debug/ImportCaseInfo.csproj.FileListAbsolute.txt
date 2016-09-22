@@ -1,0 +1,164 @@
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\ImportCaseInfo.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\ImportCaseInfo.pdb
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\Microsoft.SharePoint.Client.ServerRuntime.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\Microsoft.SharePoint.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\Microsoft.SharePoint.Search.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\Microsoft.Web.CommandUI.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\Microsoft.IdentityModel.Extensions.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\Microsoft.BusinessData.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\Microsoft.SharePoint.Security.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\System.Spatial.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\Microsoft.Office.Server.Search.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\Microsoft.SharePoint.Taxonomy.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\Microsoft.Office.Server.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\Microsoft.SharePoint.Portal.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\Microsoft.SharePoint.Publishing.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\Microsoft.Office.Server.UserProfiles.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\Microsoft.SharePoint.Search.Extended.Administration.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\Microsoft.SharePoint.Search.Extended.Administration.ResourceStorage.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\Microsoft.Office.Server.Search.Applications.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\Microsoft.mshtml.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\Microsoft.SharePoint.Search.Extended.Administration.Common.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\Microsoft.Office.Server.Search.Connector.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\Microsoft.AnalysisServices.AdomdClient.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\Microsoft.Office.Excel.Server.WebServices.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\Microsoft.Office.DocumentManagement.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\Microsoft.Office.Policy.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\Microsoft.Office.SecureStoreService.Server.Security.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\Microsoft.Office.Excel.Server.Udf.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\Microsoft.SharePoint.xml
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\Microsoft.SharePoint.Search.xml
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\Microsoft.BusinessData.xml
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\Microsoft.SharePoint.Client.xml
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\Microsoft.SharePoint.Security.xml
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\Microsoft.SharePoint.Client.Runtime.xml
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\System.Spatial.xml
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\Microsoft.Office.Server.Search.xml
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\Microsoft.SharePoint.Taxonomy.xml
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\Microsoft.Office.Server.xml
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\Microsoft.SharePoint.Portal.xml
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\Microsoft.SharePoint.Publishing.xml
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\Microsoft.Office.Server.UserProfiles.xml
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\Microsoft.Office.Server.Search.Connector.xml
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\Microsoft.Office.DocumentManagement.xml
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\Microsoft.Office.Policy.xml
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\obj\Debug\ImportCaseInfo.dll
+C:\Users\t-zefu\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ImportCaseInfo\obj\Debug\ImportCaseInfo.pdb
+C:\Azportal\ImportCaseInfo\bin\Debug\ImportCaseInfo.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\ImportCaseInfo.pdb
+C:\Azportal\ImportCaseInfo\bin\Debug\Microsoft.SharePoint.Client.ServerRuntime.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\Microsoft.SharePoint.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\Newtonsoft.Json.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\Microsoft.SharePoint.Search.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\Microsoft.Web.CommandUI.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\Microsoft.Data.Edm.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\Microsoft.IdentityModel.Extensions.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\Microsoft.BusinessData.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\Microsoft.Data.OData.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\Microsoft.SharePoint.Security.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\System.Spatial.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\Microsoft.Office.Server.Search.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\Microsoft.SharePoint.Taxonomy.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\Microsoft.Office.Server.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\Microsoft.SharePoint.Portal.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\Microsoft.SharePoint.Publishing.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\Microsoft.Office.Server.UserProfiles.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\Microsoft.SharePoint.Search.Extended.Administration.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\Microsoft.SharePoint.Search.Extended.Administration.ResourceStorage.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\Microsoft.Office.Server.Search.Applications.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\Microsoft.mshtml.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\Microsoft.SharePoint.Search.Extended.Administration.Common.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\Microsoft.Office.Server.Search.Connector.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\Microsoft.AnalysisServices.AdomdClient.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\Microsoft.Office.Excel.Server.WebServices.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\Microsoft.Office.DocumentManagement.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\Microsoft.Office.Policy.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\Microsoft.Office.SecureStoreService.Server.Security.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\Microsoft.Office.Excel.Server.Udf.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\Newtonsoft.Json.xml
+C:\Azportal\ImportCaseInfo\bin\Debug\Microsoft.SharePoint.xml
+C:\Azportal\ImportCaseInfo\bin\Debug\Microsoft.SharePoint.Search.xml
+C:\Azportal\ImportCaseInfo\bin\Debug\Microsoft.Data.Edm.xml
+C:\Azportal\ImportCaseInfo\bin\Debug\Microsoft.BusinessData.xml
+C:\Azportal\ImportCaseInfo\bin\Debug\Microsoft.Data.OData.xml
+C:\Azportal\ImportCaseInfo\bin\Debug\Microsoft.SharePoint.Client.xml
+C:\Azportal\ImportCaseInfo\bin\Debug\Microsoft.SharePoint.Security.xml
+C:\Azportal\ImportCaseInfo\bin\Debug\Microsoft.SharePoint.Client.Runtime.xml
+C:\Azportal\ImportCaseInfo\bin\Debug\System.Spatial.xml
+C:\Azportal\ImportCaseInfo\bin\Debug\Microsoft.Office.Server.Search.xml
+C:\Azportal\ImportCaseInfo\bin\Debug\Microsoft.SharePoint.Taxonomy.xml
+C:\Azportal\ImportCaseInfo\bin\Debug\Microsoft.Office.Server.xml
+C:\Azportal\ImportCaseInfo\bin\Debug\Microsoft.SharePoint.Portal.xml
+C:\Azportal\ImportCaseInfo\bin\Debug\Microsoft.SharePoint.Publishing.xml
+C:\Azportal\ImportCaseInfo\bin\Debug\Microsoft.Office.Server.UserProfiles.xml
+C:\Azportal\ImportCaseInfo\bin\Debug\Microsoft.Office.Server.Search.Connector.xml
+C:\Azportal\ImportCaseInfo\bin\Debug\Microsoft.Office.DocumentManagement.xml
+C:\Azportal\ImportCaseInfo\bin\Debug\Microsoft.Office.Policy.xml
+C:\Azportal\ImportCaseInfo\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\de\System.Spatial.resources.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\es\System.Spatial.resources.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\fr\System.Spatial.resources.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\it\System.Spatial.resources.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\ja\System.Spatial.resources.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\ko\System.Spatial.resources.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\ru\System.Spatial.resources.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Azportal\ImportCaseInfo\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Azportal\ImportCaseInfo\obj\Debug\ImportCaseInfo.dll
+C:\Azportal\ImportCaseInfo\obj\Debug\ImportCaseInfo.pdb

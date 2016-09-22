@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="ad0704bc-1194-4d5b-80ba-e0d397fe956c" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="OutageActiveRCAUpdate.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="OutageActiveRCAUpdate_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

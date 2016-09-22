@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="c23dd4cc-4124-4ac0-9354-a088e8ae6b27" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="EmailAlert.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="EmailAlert_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

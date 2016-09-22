@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="322f4964-771a-45d2-8544-56d897e8a0f8" ReceiverAssembly="ImportCaseDetails, Version=1.0.0.0, Culture=neutral, PublicKeyToken=1b012eac0721bdf1" ReceiverClass="ImportCaseDetails.Features.Feature1.Feature1EventReceiver" Scope="WebApplication" Title="ImportCaseDetails Feature1"></Feature>

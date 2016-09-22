@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="ad65ed51-108a-455c-8429-dcf22e5c0bfb" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="LSIActiveRCAUpdate.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="LSIActiveRCAUpdate_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="a0501511-e047-4b60-85f5-0332e403d793" solutionId="a0501511-e047-4b60-85f5-0332e403d793" resetWebServer="false" sharePointProductVersion="15.0" name="caseImporterTest" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="b9aba53f-d681-40da-9b94-30ec4ca51097" />
+  </features>
+</package>

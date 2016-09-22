@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="ad0704bc-1194-4d5b-80ba-e0d397fe956c" solutionId="ad0704bc-1194-4d5b-80ba-e0d397fe956c" resetWebServer="false" sharePointProductVersion="15.0" name="OutageActiveRCAUpdate" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="52825995-2b66-4f3a-be72-b92a3a2fbbc7" />
+  </features>
+</package>

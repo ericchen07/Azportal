@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" AlwaysForceInstall="TRUE" Id="fac4e987-d792-48d1-9765-c43494cc3c32" ReceiverAssembly="LSIActiveRCAUpdate, Version=1.0.0.0, Culture=neutral, PublicKeyToken=96d8de3ffe6e740a" ReceiverClass="LSIActiveRCAUpdate.Features.Feature1.Feature1EventReceiver" Scope="WebApplication" Title="LSIActiveRCAUpdate Feature1"></Feature>

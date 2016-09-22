@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" AlwaysForceInstall="TRUE" Id="00636e9c-5dea-4e99-9be6-eef79019aefc" ReceiverAssembly="CaseDetailsImporter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=7a96326be34d3ace" ReceiverClass="CaseDetailsImporter.Features.Feature1.Feature1EventReceiver" Scope="WebApplication" Title="CaseDetailsImporter Feature1"></Feature>

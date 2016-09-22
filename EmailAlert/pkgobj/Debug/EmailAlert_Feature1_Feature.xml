@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" AlwaysForceInstall="TRUE" Id="54c066d4-be82-4152-9a99-32c00b638f00" ReceiverAssembly="EmailAlert, Version=1.0.0.0, Culture=neutral, PublicKeyToken=617c4e6908482f73" ReceiverClass="EmailAlert.Features.Feature1.Feature1EventReceiver" Scope="WebApplication" Title="EmailAlert Feature1"></Feature>

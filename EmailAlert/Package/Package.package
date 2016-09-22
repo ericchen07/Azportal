@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="c23dd4cc-4124-4ac0-9354-a088e8ae6b27" solutionId="c23dd4cc-4124-4ac0-9354-a088e8ae6b27" resetWebServer="false" sharePointProductVersion="15.0" name="EmailAlert" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="40484a07-44ab-4c3c-9f6e-dd2b82494af2" />
+  </features>
+</package>

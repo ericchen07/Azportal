@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" AlwaysForceInstall="TRUE" Id="f0589997-9341-4443-9580-403aa6241eea" ReceiverAssembly="UpdateCaseStatus, Version=1.0.0.0, Culture=neutral, PublicKeyToken=9cdc31bebd77139f" ReceiverClass="UpdateCaseStatus.Features.Feature1.Feature1EventReceiver" Scope="WebApplication" Title="UpdateCaseStatus Feature1"></Feature>

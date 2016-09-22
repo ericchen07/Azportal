@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="importer backup Feature1" Id="7e2ced17-ca37-41f7-8fa0-9e0b2a8e97b6" ReceiverAssembly="importer backup, Version=1.0.0.0, Culture=neutral, PublicKeyToken=08d169017c91bc3c" ReceiverClass="CaseInfoImporter.Features.Feature1.Feature1EventReceiver" Scope="WebApplication"></Feature>

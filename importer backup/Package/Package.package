@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="70b458f0-4d3b-4daa-b61a-4d833b637153" solutionId="70b458f0-4d3b-4daa-b61a-4d833b637153" resetWebServer="false" sharePointProductVersion="15.0" name="importer_backup" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="5e670104-058a-404a-8428-65f22e96a7a4" />
+  </features>
+</package>
